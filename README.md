@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">⚡Fun fact: I was never a computer science student/ neither learned programming from school. (never give up)!</h2>
+<h2 align="left">⚡Fun fact: I was never a computer science student/ neither learned programming from school. (never give up)! (check my repositories below for inspirational projects!)</h2>
 
 ###
 
