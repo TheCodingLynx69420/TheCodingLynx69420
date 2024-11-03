@@ -53,7 +53,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/TheCodingLynx69420/TheCodingLynx69420/output/snake.svg" alt="Snake animation" />
-
 ###
