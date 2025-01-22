@@ -1,4 +1,4 @@
-<h1 align="center">Hello World; 👋! My name is NINJA (also known as lynx), and I am passionate about Full stack web development, I am from Earth 🌎</h1>
+<h1 align="center">Hello World; 👋! My name is NINJA (also known as lynx), and I am passionate about Front-End web development, I am from Earth 🌎</h1>
 
 ###
 
